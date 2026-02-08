@@ -10,7 +10,7 @@ Working with:
 
 ---
 
-Using the 20Newsgroups corpus, I did a comparison of Word2Vec and FastText using the target word "space" to determine the differences between the top 10 neighbors and their prediction scores given windos of 2 and 10.
+Using the 20 Newsgroups dataset, I did a comparison of Word2Vec and FastText using the target word "space" to determine the differences between the top 10 neighbors and their prediction scores given windos of 2 and 10.
 I also varied the vector size from 50 to 100 to 200.
 
 
